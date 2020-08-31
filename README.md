@@ -6,7 +6,7 @@ I get a lot of questions in my courses, email & DMs. This way, anyone can read t
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
-**Note:**[I have courses on DevOps, Azure, Kubernetes, and GitHub here](https://cmcrowell.com/courses)
+**Note:**[I have courses on DevOps, Azure, Kubernetes, and GitHub here](https://cmcrowell.com/post/courses/)
 
 ### Guidelines
 
